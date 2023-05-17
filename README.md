@@ -1,4 +1,4 @@
-			    		 	Projekt aplikacji desktopowej – formularz 
+   Projekt aplikacji desktopowej – formularz 
 
  
 
